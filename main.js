@@ -25,5 +25,5 @@ for( var i=1; i<=input; i++) {
     custInput.val("");
 
   }
-  else alert("Whoops! Try a number out!");
+  else alert("Whoops! Try again!");
   }
